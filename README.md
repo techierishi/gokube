@@ -52,7 +52,7 @@ make panes # To create 3 tmux panes each for general use, manager, worker
 
 ```
 
-![Screenshot](./meta/screenshot.png)
+![Screenshot](./hack/screenshot.png)
 
 ## Definitions 
 * Orchestrator
